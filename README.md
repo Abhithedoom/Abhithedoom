@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhuhsek Jangir
+- 👋 Hi, I’m @Abhihsek Jangir
 - 👀 I’m interested in python and baskeltball
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on companies that use mcahine learning algorithims in there uses
